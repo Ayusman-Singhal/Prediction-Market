@@ -34,4 +34,5 @@ Potential enhancements include:
 ## 5. Contract Address Details
 - **Contract ID**: `ST59Z12GNN22Z5AD01TW3940PRB0ZESKQ0EJ03Y2.prediction-market`
 
-![alt text](image.png)
+<img width="1919" height="1029" alt="Screenshot 2025-08-22 160400" src="https://github.com/user-attachments/assets/12ba43c9-5491-4ecd-8544-4bf49a3a8fe2" />
+
